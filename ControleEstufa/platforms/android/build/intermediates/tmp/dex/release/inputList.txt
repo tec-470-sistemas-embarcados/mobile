@@ -1,2 +1,0 @@
-C:\Users\Paulo\WebstormProjects\untitled1\platforms\android\build\intermediates\classes\release
-C:\Users\Paulo\WebstormProjects\untitled1\platforms\android\build\intermediates\pre-dexed\release\classes-44ddf563b99238cf51d8bcfbb7f80cb97d313741.jar

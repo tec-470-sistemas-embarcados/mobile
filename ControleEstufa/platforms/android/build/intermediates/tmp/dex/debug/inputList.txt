@@ -1,2 +1,0 @@
-C:\Users\Paulo\WebstormProjects\untitled1\platforms\android\build\intermediates\classes\debug
-C:\Users\Paulo\WebstormProjects\untitled1\platforms\android\build\intermediates\pre-dexed\debug\classes-9fa6b0ea951c44d6033ae1ed4e61a99d7f2345ab.jar
